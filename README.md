@@ -1,6 +1,6 @@
 # About
 
-[test](/test)
+[test](/invest-india/test)
 
 # Articles
 
