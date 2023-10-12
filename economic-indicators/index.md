@@ -1,6 +1,6 @@
 ## Home
 
-[Invest India](/)
+[Invest India](/invest-india)
 
 ## About
 
